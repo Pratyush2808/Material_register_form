@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "materialform"
+    }
+  },
+  "defaultProject": "materialform",
+  "cli": {
+    "analytics": "609dc9b6-485c-47af-9e0a-702260406ce0"
+  }
 }
